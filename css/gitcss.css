@@ -8,4 +8,13 @@ h1{
 body{
 	background: #5CCCCC;
 	padding:0px;
+	margin:5px;
+}
+p{
+	
+    font-style: italic;
+      font-weight: bold;
+    color:#3D0A3E;
+    text-align: right;
+	font-size:20px;
 }
