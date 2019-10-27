@@ -5,3 +5,7 @@ h1{
 	 text-decoration:underline;
 	  z-index: 3;
 }
+body{
+	background: #5CCCCC;
+	padding:0px;
+}
